@@ -1,1 +1,1 @@
-"# MarkitoTemplateProcessor" 
+"# Email template processing for Markito" 
